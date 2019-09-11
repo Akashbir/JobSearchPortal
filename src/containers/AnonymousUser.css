@@ -1,0 +1,21 @@
+.anonymoususer-img{
+    height: 100%;
+    width: 100%;
+}
+
+.searchJobs {
+    justify-content: space-between;
+}
+.anonymoususer-button{
+    max-width: 400px;
+}
+.anonymoususer-button-wrapper{
+    text-align: center;
+}
+
+.anonymoususer-input{
+    max-width: 50%;
+}
+.anonymoususer-input-wrapper{
+    text-align: center;
+}
